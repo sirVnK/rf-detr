@@ -1,3 +1,6 @@
+<!-- portfolio-attribution -->
+> **Portfolio note:** This repository tracks the upstream [RF-DETR](https://github.com/roboflow/rf-detr) project for study. Original authors retain credit. It is not presented as an original Şirvan Kesici project; personal experiments should be documented separately.
+
 # RF-DETR: SOTA Real-Time Object Detection Model
 
 [![hf space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SkalskiP/RF-DETR)
